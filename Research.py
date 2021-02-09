@@ -5,6 +5,7 @@ st.write("*By Will Bosler*")
 st.write("Browse a selection of group research tasks I have completed by expanding the below sections.")
 st.write("")
 st.write("")
+st.write("")
 
 #Ride share Research
 Ride_Share = st.beta_expander("Ridesharing Platforms - A framework for understanding driver and trip behaviour")
